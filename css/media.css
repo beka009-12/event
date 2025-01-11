@@ -105,4 +105,25 @@
   .box {
     max-width: 300px;
   }
+  #home {
+    padding-block: 20px;
+  }
+  .service_box {
+    padding-block: 25px;
+  }
+  .img {
+    height: 220px;
+  }
+  .footer {
+    gap: 55px;
+  }
+  .header1 nav {
+    gap: 25px;
+  }
+  #portfolio {
+    padding-block: 5px;
+  }
+  #service {
+    padding-block: 40px;
+  }
 }
