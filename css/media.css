@@ -30,6 +30,9 @@
   .home_text {
     max-width: 510px;
   }
+  .img {
+    justify-content: space-around;
+  }
   .img3 {
     display: none;
   }

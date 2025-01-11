@@ -147,12 +147,21 @@ p {
 }
 .img {
   padding-block: 50px;
-  height: 350px;
+  height: 450px;
   gap: 20px;
   display: flex;
-  align-items: center;
   justify-content: space-between;
 }
+.img1 {
+  align-self: flex-start;
+}
+.img2 {
+  align-self: center;
+}
+.img3 {
+  align-self: flex-end;
+}
+
 .img1 img,
 .img2 img,
 .img3 img {
